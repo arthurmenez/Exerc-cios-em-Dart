@@ -1,4 +1,4 @@
-# Exercícios Unificados em Dart
+# Exercícios de Lógica em Dart
 
 Este projeto unifica três exercícios distintos em um único código Dart, permitindo ao usuário escolher qual exercício executar através de um menu interativo na função `main`.
 
